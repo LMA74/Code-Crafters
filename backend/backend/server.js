@@ -6,7 +6,7 @@ const PORT = 5000;
 app.get("/api/health", (req, res) => {
   res.json({
     status: "success",
-    message: "Campus Service Request API is running"
+    message: "Study group finder system API is running"
   });
 });
 
