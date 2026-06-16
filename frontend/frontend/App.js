@@ -4,7 +4,7 @@ function App() {
   return (
     <div>
       <h1>Study group finder system</h1>
-      <p>Campus Service Request API is running</p>
+      <p>Study group finder system API is running</p>
     </div>
   );
 }
